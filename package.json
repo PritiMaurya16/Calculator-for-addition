@@ -1,0 +1,15 @@
+{
+  "name": "calculatordevice",
+  "version": "1.0.0",
+  "description": "It's simple Calculator Device which Perform simple Mathematical Opertation.",
+  "main": "calculatorDevice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priti Maurya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
